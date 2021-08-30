@@ -39,3 +39,7 @@ variable "prefix" {
 variable "dummy" {
     default = "dummy"
 }
+    
+variable "dummy1" {
+    default = "dummy"
+}
