@@ -43,3 +43,6 @@ variable "dummy" {
 variable "dummy1" {
     default = "dummy"
 }
+variable "dummy2" {
+    default = "dummy"
+}
