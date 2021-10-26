@@ -46,3 +46,8 @@ variable "dummy1" {
 variable "dummy2" {
     default = "dummy"
 }
+    
+variable "dummy3" {
+    default = "dummy"
+}
+
